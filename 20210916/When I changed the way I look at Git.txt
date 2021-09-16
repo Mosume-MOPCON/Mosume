@@ -1,0 +1,11 @@
+1. When I was young.
+    -> Good saving tool.
+    -> Bad at git.
+2. When I work with others.
+    -> Good merging tool.
+    -> Version management tool.
+3. When I have other to lead.
+    -> Git/Github/Gitlab flow
+    -> With Trello, Jira... etc. Project management tool.
+    -> Performance monitor.
+....
