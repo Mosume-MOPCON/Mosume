@@ -1,0 +1,14 @@
+These 4 skills is for junior developer.
+These 4 skills is to save your live when you accidentally burn your website/app.
+To become a GOOD developer there's much more things to do.
+
+1. Strong Knowledge of Core concept
+    > Life cycle
+    > Framework core component
+    > Data Structure
+    > Algorithm
+2. Know your database
+    > Insert, Update, Select, Delete, Join, Sub-query
+3. Know your cloud structure / or environment
+
+4. Reliable relationship with your co-worker
